@@ -1,0 +1,6 @@
+
+
+post install note
+
+key:generate
+Application key [base64:dloHZ0wYW5PzC9M/Unz8pRC1JmguPlhp27z63Fo5vQE=] set successfully.
